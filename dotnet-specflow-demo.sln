@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-specflow-demo", "dotnet-specflow-demo\dotnet-specflow-demo.csproj", "{A55CC78A-C45E-44A0-994A-C5D180BCCA33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "specflowtests", "specflowtests\specflowtests.csproj", "{99AD6852-C2C1-4352-8616-ACFA6550CFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55CC78A-C45E-44A0-994A-C5D180BCCA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55CC78A-C45E-44A0-994A-C5D180BCCA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55CC78A-C45E-44A0-994A-C5D180BCCA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55CC78A-C45E-44A0-994A-C5D180BCCA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AD6852-C2C1-4352-8616-ACFA6550CFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AD6852-C2C1-4352-8616-ACFA6550CFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AD6852-C2C1-4352-8616-ACFA6550CFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AD6852-C2C1-4352-8616-ACFA6550CFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F890E456-7232-4F22-B73A-5581D1E9925B}
+	EndGlobalSection
+EndGlobal
